@@ -1,3 +1,5 @@
+# You are free to use this code but we do not provide any service for this code #
+
 import pandas as pd
 import pandapower as pp
 import numpy as np
