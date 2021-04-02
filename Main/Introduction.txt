@@ -1,3 +1,3 @@
 PandaPower is a useful tool for calculating optimal power flow (OPF) in a paticular network.
 This work is implemented in PandaPower and other libs. The code is .py format.
-Furthermore, out team proposes a electric market clearing software based on this code. The detail codes are uploaded in the near future. 
+
